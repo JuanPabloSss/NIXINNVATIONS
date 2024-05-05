@@ -1,0 +1,6 @@
+8d2a174b-6f70-4c90-8141-a5eb8343114c;Salseando con Sabor;Salsa;Streaming;
+72e19b31-867c-416e-ab0f-b9c9b8b09645;Ritmo Salvaje;Regueton;FM;
+0995d39c-6c01-4401-8c67-7e9ed08f19e0;Supiros Vallenateros ;Vallenato;FM;
+23f4a60c-b46b-499c-9611-da2540c96847;Rock pa'l Alma;Rock;Streaming;
+a887831b-c5bf-45e5-8d14-258116f4b45c; Rap City Groove;Rap;FM;
+f240841c-d307-4b8c-abdc-d31b09046c28;Clasicasos Navideños;Tropical;Streaming;
